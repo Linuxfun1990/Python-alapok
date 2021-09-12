@@ -1,0 +1,2 @@
+# Python-alapok
+python alapok
